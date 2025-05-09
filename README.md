@@ -57,6 +57,23 @@ Food_Find는 식당을 선택하기 힘들 때 사용하는 웹 사이트입니�
 
 ---
 
+## 🔍 Yolov5_Food_Check (음식 객체 인식)
+
+🧠 프로젝트 개요  
+Yolov5_Food_check는 spring 프레임워크로 개발한 사이트에 접속 후 학습된 yolov5 모델을 이용하여 사진을 업로드시 음식의 이름과 칼로리를 표시해 줍니다.
+
+🔍 주요 기여
+- 🧠 PyTorch기반 Yolov5 모델 학습
+- 💾 이미지 처리 및 Spring Boot와 FastAPI 연동
+
+🧰 기술 스택   
+- Java, Python, Spring Boot, PyTorch, YOLOv5
+  
+📎 자세한 정보  
+[Yolov5_Food_Check GitHub 바로가기](https://github.com/KBohyeon/Yolov5_Food_Check)
+
+---
+
 ## 📱 address_book(주소록 자동 등록 어플)
 📆 개발 기간: 2025.02 – 2025.02
 
