@@ -67,7 +67,7 @@ Yolov5_Food_check는 spring 프레임워크로 개발한 사이트에 접속 후
 - 💾 이미지 처리 및 Spring Boot와 FastAPI 연동
 
 🧰 기술 스택   
-- Java, Python, Spring Boot, PyTorch, YOLOv5
+- Java, Python, Spring Boot, PyTorch, YOLOv5, FastApi
   
 📎 자세한 정보  
 [Yolov5_Food_Check GitHub 바로가기](https://github.com/KBohyeon/Yolov5_Food_Check)
