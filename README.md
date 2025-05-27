@@ -47,10 +47,11 @@ Food_Find는 식당을 선택하기 힘들 때 사용하는 웹 사이트입니�
 - 🖼️ 사이트 UI/UX 디자인
 - 💾 DB 설계 및 구현
 - 🗂️ 데이터 처리 및 저장
+- 🧠 식당 예약 Redis 분산락 구현 
 - 📍 사용자와 식당의 거리 계산
 
 🧰 기술 스택   
-- Java, JavaScript, HTML, CSS, Spring Boot, Mysql
+- Java, JavaScript, HTML, CSS, Spring Boot, Mysql, Redis
   
 📎 자세한 정보  
 [Food_Find GitHub 바로가기](https://github.com/KBohyeon/Food_Find)
