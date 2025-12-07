@@ -50,7 +50,7 @@ AI_Kpop_Camera_System은 SAMURAI AI 객체 추적 기술을 활용하여 K-pop �
 Python, OpenCV, SAMURAI AI, NumPy, SciPy, Pillow, Gaussian Filtering, Anaconda
 
 📎 자세한 정보
-[Food_Find GitHub 바로가기](https://github.com/KBohyeon/AI-Powered-K-pop-Camera-System)
+[AI_Kpop_Camera_System GitHub 바로가기](https://github.com/KBohyeon/AI-Powered-K-pop-Camera-System)
 
 
 ---
